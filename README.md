@@ -1,0 +1,1 @@
+## jamf-applog-to-kintai-data
